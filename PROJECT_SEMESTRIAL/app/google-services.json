@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "979803752663",
+    "firebase_url": "https://weather-station-d6570.firebaseio.com",
+    "project_id": "weather-station-d6570",
+    "storage_bucket": "weather-station-d6570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979803752663:android:0ff575f195aea7977ec892",
+        "android_client_info": {
+          "package_name": "com.example.weatherstation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979803752663-0n5o5npc2p5k5tt44abe2ie5b06nm0h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Rs5D4LCWnK8xey4qgWoMyxuRi4tGbO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979803752663-0n5o5npc2p5k5tt44abe2ie5b06nm0h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
